@@ -1,0 +1,13 @@
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\Felipe\Documents\VSC\.net ou C#\App-Banco\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
